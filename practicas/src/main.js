@@ -29,15 +29,14 @@ import { initializeApp } from "firebase/app";
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
-// Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBxPEgKpINMbPQBoyALIXCr8OaTB8G6ETE",
-  authDomain: "practica3y4android.firebaseapp.com",
-  databaseURL: "https://practica3y4android-default-rtdb.firebaseio.com",
-  projectId: "practica3y4android",
-  storageBucket: "practica3y4android.appspot.com",
-  messagingSenderId: "895891262973",
-  appId: "1:895891262973:web:62ca991bc7ee5e31821d94"
+  apiKey: "AIzaSyCiQ1Z3WKce-6hxG60gyH_QDzHfhduqF8A",
+  authDomain: "ionic-26713.firebaseapp.com",
+  databaseURL: "https://ionic-26713-default-rtdb.firebaseio.com",
+  projectId: "ionic-26713",
+  storageBucket: "ionic-26713.appspot.com",
+  messagingSenderId: "814663103444",
+  appId: "1:814663103444:web:1acf0e99862f0d1deadc41"
 };
 
 // Initialize Firebase
