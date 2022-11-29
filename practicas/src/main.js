@@ -36,7 +36,7 @@ const firebaseConfig = {
   projectId: "ionic-26713",
   storageBucket: "ionic-26713.appspot.com",
   messagingSenderId: "814663103444",
-  appId: "1:814663103444:web:1acf0e99862f0d1deadc41"
+  appId: "1:814663103444:web:e2d3a31c04a39bcdeadc41"
 };
 
 // Initialize Firebase
